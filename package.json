@@ -1,0 +1,17 @@
+{
+  "name": "genis",
+  "version": "1.0.0",
+  "description": "this the first project in node js from andela program",
+  "main": "index.ts",
+  "scripts": {
+    "test": "test",
+    "dev": "ts-node-dev --transpile-only --no-notify --exit-child index.ts"
+  },
+  "author": "Honore Mwiseneza",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.4.3"
+  }
+}
